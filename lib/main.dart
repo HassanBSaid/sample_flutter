@@ -19,7 +19,7 @@ class Home extends StatelessWidget {
       body: Container(
         child: Column(
           //verticalDirection: VerticalDirection.up,
-          mainAxisAlignment: MainAxisAlignment.end,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
